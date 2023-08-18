@@ -1,0 +1,12 @@
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\bin\Debug\net6.0\EcommerceAppModels.deps.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\bin\Debug\net6.0\EcommerceAppModels.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\bin\Debug\net6.0\EcommerceAppModels.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\refint\EcommerceAppModels.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\EcommerceAppModels.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceAppModels\obj\Debug\net6.0\ref\EcommerceAppModels.dll
