@@ -1,6 +1,7 @@
 ﻿using EcommerceAppModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ECommerceApp.Controllers
 {
@@ -21,8 +22,33 @@ namespace ECommerceApp.Controllers
         // GET: HomeController1/Create
         public ActionResult Create(Product product)
         {
-            string productTemp= product.Name ?? "N/A";
+            List<Country> countryList = new List<Country>
+            {
+                new Country { Id = 1, Name = "Bangladesh" },
+                new Country { Id = 2, Name = "India" },
+               
+            };
+
+            ViewBag.CountryList = countryList.Select(c => new SelectListItem()
+            {
+                Text = c.Name,
+                Value = c.Id.ToString(),
+            });
+            
             return View();
+        }
+
+        public IActionResult GetByCountryId(int countryId)
+        {
+            List<Country> countryList = new List<Country>
+            {
+                new Country { Id = 1, Name = "Bangladesh" },
+                new Country { Id = 2, Name = "India" },
+
+            };
+            var countries = countryList.Where(c=>c.Id==countryId).ToList();
+            throw new Exception();
+            return Json(countries);
         }
 
         // POST: HomeController1/Create
