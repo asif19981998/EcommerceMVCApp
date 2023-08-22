@@ -47,7 +47,7 @@ namespace ECommerceApp.Controllers
 
             };
             var countries = countryList.Where(c=>c.Id==countryId).ToList();
-            throw new Exception();
+            
             return Json(countries);
         }
 
